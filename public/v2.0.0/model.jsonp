@@ -1,0 +1,146 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "date": [
+            {
+                "startDate":"2017,2,1",
+								"endDate":"2017,6,1",
+                "headline":"SAP Cash Application",
+                "text":"<p>Intelligent and Integrated Payment Clearing Automation.<br/>Automate the Finance Process of clearing bank statement items on S/4HANA</p>",
+                "asset":
+                {
+                    "media":"http://news.sap.com/wp-content/blogs.dir/1/files/277399_277399_l_srgb_s_gl_F.jpg",
+                    "credit":"SAP LoB Finance, SAP ICN Singapore",
+                    "caption":"Product Owner - SAP Innovation Center",
+										"thumbnail":"https://www.seeklogo.net/wp-content/uploads/2016/11/sap-logo-preview.png"
+                }
+            },
+						{
+                "startDate":"2016,2,1",
+								"endDate":"2017,2,1",
+                "headline":"Product Owner / Senior Developer",
+                "text":"<p>SAP Innovation Center Network<br/>Product Owner of SAP Cash Application (1st Machine Learning solution in S/4HANA)<br/>Project Delivery and management of SAP Cash Application</p>",
+                "asset":
+                {
+                    "media":"./img/sap-trust.jpg",
+                    "credit":"SAP",
+                    "caption":"",
+										"thumbnail":"https://www.seeklogo.net/wp-content/uploads/2016/11/sap-logo-preview.png"
+                }
+            },
+						{
+                "startDate":"2015,8,1",
+								"endDate":"2016,2,1",
+                "headline":"Mobile / Frontend Developer Lead",
+                "text":"<p>SAP Research & Innovation<br/>Lead a team of iOS, Android and UI/UX developers to build innovative products</p>",
+                "asset":
+                {
+                    "media":"./img/cityapp-native.png",
+                    "credit":"Smart Cities, SAP",
+                    "caption":"",
+										"thumbnail":"https://www.seeklogo.net/wp-content/uploads/2016/11/sap-logo-preview.png"
+                }
+            },
+						{
+                "startDate":"2013,9,1",
+								"endDate":"2015,8,1",
+                "headline":"Mobile / Frontend Developer",
+                "text":"<p>SAP Research & Innovation<br/>- Native App Development: iOS (Objective C) <br/>- Hybrid App Development: Cordova & HTML5. <br/>- FrontEnd Development: SAP UI5, HTML5, JQuery, D3.</p>",
+                "asset":
+                {
+                    "media":"./img/cityapp-UI5.png",
+                    "credit":"Smart Cities, SAP",
+                    "caption":"",
+										"thumbnail":"https://www.seeklogo.net/wp-content/uploads/2016/11/sap-logo-preview.png"
+                }
+            },
+						{
+                "startDate":"2012,2,1",
+								"endDate":"2013,9,1",
+                "headline":"Software QA Analyst",
+                "text":"<p>Autodesk Research & Development<br/>- Softimage QA Analyst <br/>- Beta Manager for Autodesk Softimage <br/>- Experience in Agile Scrum, Quality Assurance Methodologies</p>",
+                "asset":
+                {
+                    "media":"http://logos-vector.com/images/logo/xxl/1/7/7/177813/Autodesk_Softimage_06245_450x450.png",
+                    "credit":"Autodesk",
+                    "caption":"",
+										"thumbnail":"https://blog.a360.autodesk.com/wp-content/uploads/2015/07/autodesk_icon.png"
+                }
+            },
+            {
+                "startDate":"2010,1,1",
+								"endDate":"2012,2,1",
+                "headline":"MDA Overseas Scholar 2009",
+                "text":"<p>Student in Monash University,<br/>B. Computer Science in Melbourne Clayton<br/>- Dux in Monash University: Top in 2011<br/>- Bellamy Awards in 2009 & 2010</p>",
+                "asset":
+                {
+                    "media":"./img/mda-scholarship.jpg",
+                    "credit":"Media Development Authority of Singapore",
+                    "caption":"2009: Awarded by Mr. Lui Tuck Yew, Acting Minister for Information, Communications and the Arts",
+										"thumbnail":"https://image.flaticon.com/icons/png/128/214/214282.png"
+                }
+            },
+						{
+                "startDate":"2006,9,1",
+								"endDate":"2010,1,1",
+                "headline":"Lecturer / Pipeline Programmer",
+                "text":"<p>Nanyang Polytechnic - School of Interactive Digital Media</p>",
+                "asset":
+                {
+                    "media":"./img/nyp-cuc-exchange.jpg",
+                    "credit":"Nanyang Polytechnic, Communication University of China",
+                    "caption":"2009 student exchange programme with CUC",
+										"thumbnail":"http://www.epigami.sg/school/wp-content/uploads/2014/10/Epigami_NANYANG_POLYTECHNIC.png"
+                }
+            },
+						{
+                "startDate":"2007,6,1",
+								"endDate":"2007,9,1",
+                "headline":"Software Developer",
+                "text":"<p>IBM Watson Research Center,<br/>Yorktown, New York <br/>- Overseas attachment to IBM Research Center<br/>- Porting Pixie renderer on CellBe Architecture.</p>",
+                "asset":
+                {
+                    "media":"./img/ibm-yorktown.jpg",
+                    "credit":"IBM Thomas J. Watson Research Center",
+                    "caption":"",
+										"thumbnail":"https://m.ibm.com/https/greenhouse.lotus.com/plugins/plugincatalog.nsf/0/DDB5C467D991413285257C67002476E0/$FILE/logo.jpg"
+                }
+            },
+						{
+                "startDate":"2004,9,1",
+								"endDate":"2006,9,1",
+                "headline":"Technical Artist",
+                "text":"<p>EggStory Creative Production</p>",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=9JlCGtL7YWw",
+                    "credit":"EggStory Creative Production",
+                    "caption":"",
+										"thumbnail":"./img/eggstory.png"
+                }
+            }
+				],
+        "era": [
+    			{
+    				"startDate":"2013,9,1",
+            "endDate":"2017,2,1",
+    				"headline":"SAP"
+    			},
+          {
+            "startDate":"2012,2,1",
+            "endDate":"2013,9,1",
+            "headline":"Autodesk"
+          },
+          {
+    				"startDate":"2006,9,1",
+            "endDate":"2010,1,1",
+    				"headline":"NYP"
+    			},
+          {
+            "startDate":"2007,6,1",
+            "endDate":"2007,9,1",
+    				"headline":"IBM"
+    			}
+    		]
+		}
+	}

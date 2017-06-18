@@ -1,0 +1,20 @@
+.custom_header{
+  font-family: "Georgia,Times New Roman,Times,serif";
+  font-size: 1.0em;
+  line-height: 1.0em;
+  font-weight: normal;
+  color: #555;
+  background-color: #f3f3f3;
+  text-transform: none;
+  padding: 1rem;
+}
+
+.custom_center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+html, body, .custom_center {
+    height: 100%;
+}
